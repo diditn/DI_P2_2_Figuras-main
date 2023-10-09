@@ -4,7 +4,7 @@ using P2_2_Figuras;
 
 namespace Rectangulo;
 
-class Rectangulo : Figura
+internal class Rectangulo : Figura
 {
     private double baseRectangulo;
     private double alturaRectangulo;

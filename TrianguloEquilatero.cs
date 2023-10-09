@@ -4,7 +4,7 @@ using P2_2_Figuras;
 
 namespace TrianguloEquilatero;
 
-class TrianguloEquilatero : Figura
+internal class TrianguloEquilatero : Figura
 {
     private double longitudLado;
 

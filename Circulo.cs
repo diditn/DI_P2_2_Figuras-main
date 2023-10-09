@@ -4,7 +4,7 @@ using P2_2_Figuras;
 
 namespace Circulo;
 
-class Circulo : Figura
+internal class Circulo : Figura
 {
     private double radio;
 
